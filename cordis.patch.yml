@@ -1,0 +1,4 @@
+# dsh-fork-sync：定时对比本地 fork 与 npm 上游版本
+- insert:
+    - id: fork-sync
+      name: dsh-fork-sync
